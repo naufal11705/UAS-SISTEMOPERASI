@@ -5,7 +5,7 @@
 | NIM | **2341720080** |
 | Nama Lengkap | **Ahmad Naufal Waskito Aji** |
 | Kelas | TI-1B |
-| Dosen Pengampu | [Erfan Rohadi, ST., M.Eng., Ph.D.] |
+| Dosen Pengampu | Erfan Rohadi, ST., M.Eng., Ph.D. |
 |--| [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
 
 # SISTEM OPERASI
