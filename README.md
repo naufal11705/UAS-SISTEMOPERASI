@@ -13,7 +13,7 @@
 |  |  |  |
 |--|--|--|
 |**No**| **Fitur** | **Detail** |
-| 1 | Lihat File | Melihat daftar isi sebuah direktori dengan perintah ***ls -l*** |
+| 1 | Cek Direktori | Melihat apakah suatu direktori tersedia |
 | 2 | - | - |
 | 3 | - | - |
 | 4 | - | - |
