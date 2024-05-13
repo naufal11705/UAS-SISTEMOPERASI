@@ -1,7 +1,5 @@
 # Data Diri
 
-|  |  |
-|--|--|
 | NIM | **2341720080** |
 | Nama Lengkap | **Ahmad Naufal Waskito Aji** |
 | Kelas | TI-1B |
