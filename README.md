@@ -14,7 +14,7 @@
 |--|--|--|
 |**No**| **Fitur** | **Detail** |
 | 1 | Cek Direktori | Melihat apakah suatu direktori tersedia |
-| 2 | - | - |
+| 2 | Cari File | Mencari file pada path tertentu maupun secara global |
 | 3 | - | - |
 | 4 | - | - |
 | 5 | - | - |
