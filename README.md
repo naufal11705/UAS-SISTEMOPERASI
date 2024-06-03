@@ -19,10 +19,8 @@
 | 4 | Hapus riwayat tertentu | Memilih item tertentu dari riwayat clipboard |
 | 5 | Hapus semua riwayat | Mengosongkan clipboard |
 | 6 | Atur lokasi clipboardd | Mengubah lokasi clipboard |
-| 7 | - | - |
-| 8 | - | - |
-| 1 | Cek Direktori | Melihat apakah suatu direktori tersedia |
-| 2 | Cari File | Mencari file pada path tertentu maupun secara global |
+
 # SCREENSHOT PROGRAM
+![Hasil](./screenshot.png)
 
 | ?? - Program Shell - UAS Praktikum Sistem Operasi |
