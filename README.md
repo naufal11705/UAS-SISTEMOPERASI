@@ -13,14 +13,16 @@
 |  |  |  |
 |--|--|--|
 |**No**| **Fitur** | **Detail** |
-| 1 | Cek Direktori | Melihat apakah suatu direktori tersedia |
-| 2 | Cari File | Mencari file pada path tertentu maupun secara global |
-| 3 | - | - |
-| 4 | - | - |
-| 5 | - | - |
-| 6 | - | - |
+| 1 | Simpan teks ke clipboard | Menggunakan xclip |
+| 2 | Menampilkan riwayat clipboard | Mencetak menggunakan cat |
+| 3 | Copy dari clipboard | - |
+| 4 | Hapus riwayat tertentu | Memilih item tertentu dari riwayat clipboard |
+| 5 | Hapus semua riwayat | Mengosongkan clipboard |
+| 6 | Atur lokasi clipboardd | Mengubah lokasi clipboard |
 | 7 | - | - |
 | 8 | - | - |
+| 1 | Cek Direktori | Melihat apakah suatu direktori tersedia |
+| 2 | Cari File | Mencari file pada path tertentu maupun secara global |
 # SCREENSHOT PROGRAM
 
 | ?? - Program Shell - UAS Praktikum Sistem Operasi |
