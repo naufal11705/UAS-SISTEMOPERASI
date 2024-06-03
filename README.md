@@ -15,10 +15,10 @@
 |**No**| **Fitur** | **Detail** |
 | 1 | Simpan teks ke clipboard | Menggunakan xclip |
 | 2 | Menampilkan riwayat clipboard | Mencetak menggunakan cat |
-| 3 | Copy dari clipboard | - |
+| 3 | Copy dari clipboard | Menyalin data dari riwayat |
 | 4 | Hapus riwayat tertentu | Memilih item tertentu dari riwayat clipboard |
 | 5 | Hapus semua riwayat | Mengosongkan clipboard |
-| 6 | Atur lokasi clipboardd | Mengubah lokasi clipboard |
+| 6 | Atur lokasi clipboard | Mengubah lokasi clipboard |
 
 # SCREENSHOT PROGRAM
 ![Hasil](./screenshot.png)
