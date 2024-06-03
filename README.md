@@ -23,4 +23,4 @@
 # SCREENSHOT PROGRAM
 ![Hasil](./screenshot.png)
 
-| ?? - Program Shell - UAS Praktikum Sistem Operasi |
+| Clipboard Manager - Program Shell - UAS Praktikum Sistem Operasi |
